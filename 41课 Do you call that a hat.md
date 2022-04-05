@@ -87,12 +87,16 @@ You must have lived in America for a long time.
 
 I must have been too young to know how to wisely use my time and money.
 我一定是太年轻了，以至于不知道如何明智地利用时间和金钱。
+
 I shouldn’t have wasted so much time watching TV.
 我本不该浪费这么多时间看电视的。
+
 I should have spent more time learning and growing.
 我应该花更多的时间学习成长。
+
 I needn’t have bought so many things I didn’t really need.
 我本不需要买这么多我不需要的东西。
+
 I could have spent more money on helping others.
 我本可以花更多的钱来帮助别人
 
