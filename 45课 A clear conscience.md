@@ -64,7 +64,7 @@ The application form should be submitted on time, together with a photo which cl
 
 The president paid a visit to China, together with the first lady who has never been to this country before.
 
-总统访问了中国，陪同的还有第一夫人，这个第一夫人从未到过中国。
+总统访问中国，陪同的还有第一夫人，这个第一夫人从未到过中国。
 
 
 
