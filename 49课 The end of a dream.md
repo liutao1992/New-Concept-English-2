@@ -2,6 +2,8 @@
 
 Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.
 
+> be tired of "对......感到厌倦"
+
 `Tired of sleeping on the floor` 做分词状语，相当于：Because he was tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.
 
 
