@@ -50,7 +50,7 @@ I had been trying to get in contact with Susan, but was unable to do so until I 
 
 比如：The man had been gambling for years before he went broke. 并非表示该动作一直持续多年，而是表示这么多年来，总是在重复该行为。
 
-Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.
+`Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.`
 
 - Winter was coming on....  
 
