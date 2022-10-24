@@ -43,9 +43,9 @@ He looks `as though / as if` he is an actor. 他看起来好像是演员。
 
 
 He talks `as if` he `were` (the) president of the United States.
-他说话的样子就像是美国总统。
+他说话的样子就好像是美国总统一样。
 
-> 他实际上并不是美国总统，这里我们用了虚拟语言，时态后撤，使用were.
+> 他实际上并不是美国总统，因此我们在这里用了虚拟语言，时态后撤，使用were.
 
 
 
