@@ -27,7 +27,9 @@ It is strongly recommended that your report should be submitted two weeks before
 
 `If you had listened to me, you would not be suffering now.` 如果当时你听了我的话，现在你就不会那么痛苦了。
 
- 
+### The world had to wait almost another 100 years for the Channel Tunnel.
+
+> had to 不得不等待，这里使用的是拟人的用法，非常生动的表达了世界对 Channel Tunnel 的一种期待。
 
 
 
