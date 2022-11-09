@@ -66,7 +66,7 @@ When the doctor answered the phone, Mr Gilbert said he was inquiring about a cer
 We use a or an to show that we are talking about someone or something that has not been mentioned before, or that the listeners do not know about.
 我们用a或an来表示我们谈论的是以前没有提到过的人或事，或者是听众不知道的事。
 
-因此作者在这里使用定冠词-a，给医生和John Gilbert不熟的感觉以获取信息
+因此作者在这里使用定冠词-a，给医生和John Gilbert不熟的感觉以获取信息。
 
 
 
