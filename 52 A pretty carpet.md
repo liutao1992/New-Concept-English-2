@@ -75,24 +75,25 @@ Wu Song has drunk 18 bowls of wine but he is still sober.
 
 I have lived in China for 10 years. 基本等于 I have been living in China for 10 years.
 
-> 如果说有两句有一点细微差别的话, 那就是完成进行时更强调动作有继续下去的可能；
+> 如果说有两句有一点细微差别的话, 那就是完成进行时更强调动作有继续下去的可能，如：
 
-I have been living in China for 10 years. And I think I will settle down in this country.
+I have been living in China for 10 years.  其言下之意是说我考虑在这里定居：And I think I will settle down in this country.
 
-> 而完成时只是强调动作的结果，这个动作可能会持续，也可能不会持续。
+> settle down：定居
 
-I have lived in China for 10 years. So I am thinking about returning to my home country.
+> 而完成时只是强调动作的结果，这个动作可能会持续，也可能不会持续。如：
+
+I have lived in China for 10 years. 这句话强调我已经在中国住了十年了，其言下之意可能是说： So I am thinking about returning to my home country （所以我正在考虑是不是要回到我的祖国了）.
 
 但注意：区别这两句话：
 
 I have lived in China. 若没有时间状语，则表示我在中国生活过，而不是一直生活在中国，且现在他已经不在中国了。
 若要强调他生活在中国，且不强调生活多少年，并且现在还在中国，则需要使用现在完成进行时，I have been living in China.  
 
-- 完成进行时更具有感情色彩，更具有口语化，在口语中很常见。
+- 完成进行时更具有感情色彩，更具有口语化，在口语中很常见。如前面提到的比尔盖茨的这句话：
 
-I have been looking forward to the trip for a long time.
+> I've been waiting more than 30 years to say this:'Did, I always told you I'd back and get my degree.' I've been waiting more than 30 years: 表达了比尔盖茨等了好久终于等到这一天的兴奋之情。相比 I've waited more than 30 years，它只是在陈述这个等待的事实，在表达的感染力上则大打折扣了。
 
-> have been looking forward to 表示对这次旅行已经期待已久了
 
 > 总结：现在完成进行时的核心思维是持续发生，可以表示一个持续不断的动作，也可以是一个持续重复的行为；
 完成时强调结果，完成进行时强调持续过程，所以在口语中完成进行时有更多的感情色彩。 
